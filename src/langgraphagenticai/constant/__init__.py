@@ -1,0 +1,1 @@
+UICONFIGFILENAME = "uiconfigfile.ini"
